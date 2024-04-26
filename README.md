@@ -1,6 +1,6 @@
 # Body-Mass-Index
 
-# About this file
+### About this file
 A simple yet challenging project, to estimate the BMI based on the Gender, Height & Weight.
 The complexity arises due the fact that dataset has less samples, & is highly imbalanced.
 Can you overcome these obstacles & build a good predictive model to classify them?
